@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Airline {
-    // Ιδιότητες
+    
     private List<Airport> airports;   
     private List<Airplane> airplanes;   
     private String airline;   
